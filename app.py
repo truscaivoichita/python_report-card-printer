@@ -40,4 +40,5 @@ print(type(name))
 # Boolean values represent a yes-or-no condition, and they are often used to make decisions in code. There are only two boolean values: True and False.
 
 # Declare a variable named is_student and assign it the value True.
+
 is_student = True
