@@ -82,3 +82,8 @@ print(isinstance(score, float))
 # The output is False, which shows that score is not an int.
 
 # Another common kind of number in Python is float, which represents a number with decimals. Replace int with float in the existing isinstance() call to confirm this.
+# Step 10
+# The output is True, confirming that score is a float.
+
+# To complete the report card, print the score value along with its data type using a single print() statement.
+print(score, type(score))
