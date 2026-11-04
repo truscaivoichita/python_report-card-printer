@@ -77,4 +77,8 @@ print(age, type(age))
 # print(isinstance(x, int)) # Output: True
 # Use isinstance() to check whether score is an int, and print the result to the terminal as shown in the example above.
 score = 80.5
-print(isinstance(score, int))
+print(isinstance(score, float))
+# Step 9
+# The output is False, which shows that score is not an int.
+
+# Another common kind of number in Python is float, which represents a number with decimals. Replace int with float in the existing isinstance() call to confirm this.
