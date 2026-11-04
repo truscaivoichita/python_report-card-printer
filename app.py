@@ -57,3 +57,11 @@ print(is_student, type(is_student))
 
 # Remove the earlier outputs of the name variable. Then, print name and type(name) together on one line separated by a comma like the previous step.
 print(name, type(name))
+# Step 7
+# Now add the student's age to the report card data. For that, you'll use an integer, one of the numeric data types in Python.
+
+# Declare a variable named age and assign it the integer value 20.
+
+# Then, print the value and data type of age together separated by a comma. Check the output in the terminal, which shows the value of age and its type, int (integer).
+age = 20
+print(age, type(age))
