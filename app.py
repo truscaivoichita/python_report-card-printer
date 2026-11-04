@@ -21,7 +21,7 @@ name = "Alice"
 # In the example above, print(greeting) is a function call, and greeting is the argument of the function.
 
 # Refer to the example and print the name variable. Check the output in the terminal.
-print(name)
+# print(name)
 # Step 3
 # You should now see the student name printed in the terminal.
 
@@ -33,7 +33,7 @@ print(name)
 # In the example above, the output <class 'str'> means that the variable passed to the type() function is a string.
 
 # Use the type() function with name as its argument and print the output like the example. Check the output in the terminal that shows name is of the type str (string).
-print(type(name))
+# print(type(name))
 # Step 4
 # Next, add the student's enrollment status to the report card data. This can be represented using a boolean value.
 
@@ -51,3 +51,9 @@ is_student = True
 # print(subject, type(subject)) # Output: Python <class 'str'>
 # Print both is_student and type(is_student) on the same line using a comma , as shown in the example. Check the output in the terminal, which shows the value of is_student and its type, bool (boolean).
 print(is_student, type(is_student))
+
+# Step 6
+# The student name should follow the same format as the other details.
+
+# Remove the earlier outputs of the name variable. Then, print name and type(name) together on one line separated by a comma like the previous step.
+print(name, type(name))
