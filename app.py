@@ -87,3 +87,8 @@ print(isinstance(score, float))
 
 # To complete the report card, print the score value along with its data type using a single print() statement.
 print(score, type(score))
+# True <class 'bool'>
+# Alice <class 'str'>
+# 20 <class 'int'>
+# True
+# 80.5 <class 'float'>
