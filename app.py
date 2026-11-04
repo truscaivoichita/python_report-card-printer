@@ -10,3 +10,15 @@
 
 # Important: Python uses indentation (the spaces at the beginning of a line) to organize code. For this workshop, make sure there are no extra spaces at the start of each line of code. Adding extra spaces will cause an IndentationError and prevent your code from running.
 name = "Alice"
+# Step 2
+# You can print the value of a variable using the print() function.
+
+# Example Code
+# greeting = 'Hello World'
+# print(greeting) # Output: Hello World
+# You will learn more about functions in upcoming lessons. For now, know that a function is a reusable block of code that can be called, or invoked, to run its code, and arguments can be passed to it.
+
+# In the example above, print(greeting) is a function call, and greeting is the argument of the function.
+
+# Refer to the example and print the name variable. Check the output in the terminal.
+print(name)
