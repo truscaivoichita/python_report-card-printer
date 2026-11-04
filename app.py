@@ -34,3 +34,10 @@ print(name)
 
 # Use the type() function with name as its argument and print the output like the example. Check the output in the terminal that shows name is of the type str (string).
 print(type(name))
+# Step 4
+# Next, add the student's enrollment status to the report card data. This can be represented using a boolean value.
+
+# Boolean values represent a yes-or-no condition, and they are often used to make decisions in code. There are only two boolean values: True and False.
+
+# Declare a variable named is_student and assign it the value True.
+is_student = True
